@@ -1,28 +1,62 @@
-# 🛍️ Easy Shopping via Mobile
+<h1 align="center">🛍️ Easy Shopping via Mobile</h1>
 
-## 📘 Descrição
-Esse projeto foi criado para praticar **responsividade** e **design moderno** usando apenas **HTML e CSS**.  
-O foco foi entender como adaptar o layout para **diferentes tamanhos de tela** — mobile, tablet e desktop — garantindo uma boa experiência visual em qualquer dispositivo.
+<p align="center">
+  <a href="https://hemmercamp.github.io/easy-shopping-via-mobile/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Ver%20Projeto%20Online-blue?style=for-the-badge">
+  </a>
+</p>
 
-O site simula uma **landing page de aplicativo de compras**, com uma hero section atraente e layout limpo.
+---
 
-## 🧱 Tecnologias utilizadas
-- HTML5  
-- CSS3 (Flexbox e Media Queries)
+## 🧠 Sobre o projeto
+
+O **Easy Shopping via Mobile** é um layout moderno e totalmente responsivo, desenvolvido com **HTML e CSS**.  
+O objetivo é representar uma interface de **aplicativo de compras online**, com design focado na experiência mobile.  
+
+O projeto reforça conceitos de **flexbox, posicionamento e responsividade**, sendo um ótimo exercício prático de front-end.
+
+---
+
+## 🚀 Funcionalidades
+
+✅ Layout responsivo para diferentes tamanhos de tela  
+✅ Estrutura moderna e clean inspirada em aplicativos reais  
+✅ Organização de conteúdo com Flexbox  
+✅ Foco na usabilidade em dispositivos móveis  
+
+---
+
+## 🌐 Acesse o projeto online
+
+<p align="center">
+  <a href="https://hemmercamp.github.io/easy-shopping-via-mobile/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Ver%20Projeto%20Online-blue?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+## 🧩 Tecnologias utilizadas
+
+- **HTML5** → Estrutura semântica e componentes da página  
+- **CSS3** → Estilização, responsividade e layout com Flexbox  
+
+---
 
 ## 🖼️ Layout do projeto
 
 <p align="center">
-  <img src="./assets/preview.png" width="700" alt="Preview do Projeto Easy Shopping via Mobile">
+  <img src="assets/preview.png" alt="Preview do projeto Easy Shopping via Mobile" width="700px">
 </p>
 
-*(Substitua `assets/preview.png` pela imagem do print que você fez do site.)*
+---
 
-## 🚀 Como visualizar o projeto
-Abra o arquivo `index.html` diretamente no navegador  
-ou utilize a extensão **Live Server** do VS Code para visualização dinâmica.
+## 👨‍💻 Autor
 
-## 🎯 Aprendizados
-- Criação de layouts responsivos usando **media queries**.  
-- Uso de **Flexbox** para estruturação.  
-- Melhoria no entendimento de espaçamento, tipografia e contraste visual.  
+Desenvolvido por **Emerson Eruédinos da Silva**  
+📧 [contatohemersonoficial@gmail.com](mailto:contatohemersonoficial@gmail.com)  
+💼 [GitHub - Hemmercamp](https://github.com/Hemmercamp)
+
+---
+
+⭐ *“A prática constante transforma o conhecimento em domínio.”*
